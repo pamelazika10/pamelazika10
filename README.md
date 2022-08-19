@@ -1,2 +1,3 @@
-- ::two_women_holding_hands:Pamela e Ludumlla
+two_women_holding_hands:# nos conheça 
+
 - 
